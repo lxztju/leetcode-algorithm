@@ -5,5 +5,6 @@ Also the description of the problems will be given in English and Chinese
 
 ## The directory of easy is  the solutions for easy problems
 
-two_sum.py
+add two_sum.py  2019.09.08
+add Goat_Latin 2019.09.11
 
