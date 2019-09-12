@@ -7,4 +7,5 @@ Also the description of the problems will be given in English and Chinese
 
 add two_sum.py  2019.09.08
 add Goat_Latin 2019.09.11
-add Shortest_Distance_to_a_Character.py
+add Shortest_Distance_to_a_Character.py 2019.09.11
+add Small_Subsequence_of_Distinct_characters.py 2019.09.12
