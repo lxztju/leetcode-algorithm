@@ -20,3 +20,5 @@ add lengthOfLongestSubstring.py  2019.09.24
 add romanToInt.py 2019.09.25
 
 add longestCommonPrefix.py 2019.09.26
+
+add isValid.py 2019.09.26
