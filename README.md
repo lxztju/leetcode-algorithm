@@ -11,14 +11,27 @@ add Goat_Latin 2019.09.11
 
 add Shortest_Distance_to_a_Character.py 2019.09.11
 
-add Small_Subsequence_of_Distinct_characters.py 2019.09.12
-
 add Sum_of_Root_To_Leaf_Binary_Numbers.py 2019.09.14
-
-add lengthOfLongestSubstring.py  2019.09.24
 
 add romanToInt.py 2019.09.25
 
 add longestCommonPrefix.py 2019.09.26
 
 add isValid.py 2019.09.26
+
+add longestUnivaluePath.py 2019.10.08
+
+add mySqrt.py 2019.10.10
+
+## The directory of medium is  the solutions for medium problems
+
+add lengthOfLongestSubstring.py  2019.09.24
+
+add Small_Subsequence_of_Distinct_characters.py 2019.09.12
+
+## The directory of hard is  the solutions for hard problems
+
+
+## The directory of algorithm stored algorithm
+add binary_search.py 2019.10.10
+
