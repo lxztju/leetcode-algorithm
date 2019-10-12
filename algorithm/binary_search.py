@@ -7,21 +7,19 @@
 
 #二分查找
 
-def binary_search(array,target):
+def BinarySearch(array,target):
     """
-    binary search
+    binary search，在两个边界，[left, right]中搜寻目标值
     :param array:sorted number array
     :param target: target number
     :return: target index in array, if find nothing return None
     """
-    left = 0
-    right = len(array) - 1
+    left = 0   #左侧边界
+    right = len(array) - 1  #右侧边界
 
-    while left <= right:
+    while left <= right:  #在闭合区间中找寻结果目标值[0,n-1]
 
-        mid = (left + (right-left)// 2)
-
-
+        mid = (left + (right-left)// 2)   #放置数值越界
 
         if array[mid] == target:
             return mid
