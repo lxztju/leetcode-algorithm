@@ -22,7 +22,7 @@ def InsertSort(numbers):
             if numbers[i] < numbers[j]:
                 numbers[i], numbers[j] = numbers[j], numbers[i]
 
-    return numbers
+
 
 
 ##插入排序升级版——希尔排序
@@ -53,12 +53,11 @@ def ShellSort(numbers):
         numbers = insert(numbers, d)
         d = d //2
 
-    return numbers
 
 
 
-
-
-# numbers = [12,321,432,5,43,6,45,765,7,65,876,8,67,98,679,87,987,9,4345325]
-#
-# print(ShellSort(numbers))
+if __name__ == "__main__":
+    numbers = [12, 321, 432, 5, 43, 6, 45, 765, 7, 65, 876, 8, 67, 98, 679, 87, 987, 9, 4345325]
+    InsertSort(numbers)
+    ShellSort(numbers)
+    print(numbers)

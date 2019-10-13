@@ -33,4 +33,4 @@ def BinarySearch(array,target):
 array = [1,2,3,4,5,6,7]
 target = 3
 
-print(binary_search(array,target))
+print(BinarySearch(array,target))

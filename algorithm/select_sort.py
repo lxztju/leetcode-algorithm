@@ -29,9 +29,9 @@ def SelectSort(numbers):
         #print(numbers)
         min_num = float("inf")
 
-    return numbers
 
 
-# numbers = [12,321,432,5,43,6,45,765,7,65,876,8,67,98,679,87,987,9,4345325]
-#
-# print(SelectSort(numbers))
+if __name__ == "__main__":
+    numbers = [12, 321, 432, 5, 43, 6, 45, 765, 7, 65, 876, 8, 67, 98, 679, 87, 987, 9, 4345325]
+    SelectSort(numbers)
+    print(numbers)
