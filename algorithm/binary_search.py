@@ -30,7 +30,8 @@ def BinarySearch(array,target):
 
     return None
 
-array = [1,2,3,4,5,6,7]
-target = 3
+if __name__ == "__main__":
+    array = [1,2,3,4,5,6,7]
+    target = 3
 
-print(BinarySearch(array,target))
+    print(BinarySearch(array,target))

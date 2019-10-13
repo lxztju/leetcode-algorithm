@@ -5,7 +5,7 @@ Also the description of the problems will be given in English or Chinese
 
 ## The directory of easy is  the solutions for easy problems
 
-add 1_two_sum.py  2019.09.08
+add 1_twoSum.py  2019.09.08
 
 add 824_toGoatLatin.py 2019.09.11
 
@@ -68,4 +68,6 @@ add count_sort.py 2019.10.13
 add bucket_sort.py 2019.10.13
 
 add radix_sort.py 2019.10.13
+
+add test_sort_algorithm.py 2019.10.13
 
