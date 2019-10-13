@@ -1,7 +1,7 @@
 # -*- coding:utf-8 -*-
 # @time :2019.09.08
 # @IDE : pycharm
-# @autor :lxztju
+# @author :lxztju
 # @github : https://github.com/lxztju
 
 # Given an array of integers, return indices of the two numbers such that they add up to a specific target.

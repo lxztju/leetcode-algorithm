@@ -1,7 +1,7 @@
 # -*- coding:utf-8 -*-
 # @time :2019.09.14
 # @IDE : pycharm
-# @autor :lxztju
+# @author :lxztju
 # @github : https://github.com/lxztju
 
 #Given a binary tree, each node has value 0 or 1.

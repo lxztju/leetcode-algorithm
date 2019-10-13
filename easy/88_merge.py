@@ -1,7 +1,7 @@
 # -*- coding:utf-8 -*-
 # @time :2019.10.12
 # @IDE : pycharm
-# @autor :lxztju
+# @author :lxztju
 # @github : https://github.com/lxztju
 
 # 给定两个有序整数数组 nums1 和 nums2，将 nums2 合并到 nums1 中，使得 num1 成为一个有序数组。

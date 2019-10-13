@@ -1,7 +1,7 @@
 # -*- coding:utf-8 -*-
 # @time :2019.10.13
 # @IDE : pycharm
-# @autor :lxztju
+# @author :lxztju
 # @github : https://github.com/lxztju
 
 

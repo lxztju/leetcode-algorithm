@@ -1,7 +1,7 @@
 # -*- coding:utf-8 -*-
 # @time :2019.10.13
 # @IDE : pycharm
-# @autor :lxztju
+# @author :lxztju
 # @github : https://github.com/lxztju
 
 ## 快速排序
@@ -51,7 +51,7 @@ def partition(array, l, r):
     x = array[l]  #基准值为序列最左边的值
     i =  r + 1   # 慢指针，指向大于基准值的元素的写入地址
 
-    for j in range(r ,  l-1 , - 1):
+    for j in range(r ,  l-1 , -1):
 
         ## 将小于基准值的元素，交换至i指向的地址
         if array[j] > x:

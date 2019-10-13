@@ -31,6 +31,12 @@ add 26_removeDuplicates.py 2019.10.11
 
 add 88_merge.py 2019.10.12
 
+add 125_isPalindrome.py 2019.10..13
+
+add 344_reverseString.py 2019.10.13
+
+add 345_reverseVowels.py 2019.10.13
+
 ## The directory of medium is  the solutions for medium problems
 
 add 1081_smallestSubsequence.py 2019.09.12
@@ -42,6 +48,8 @@ add 80_removeDuplicates.py 2019.10.12
 add 75_sortColors.py 2019.10.12
 
 add 215_findKthLargest.py 2019.10.12
+
+add 11_maxArea.py 2019.10.13
 
 ## The directory of hard is  the solutions for hard problems
 

@@ -1,7 +1,7 @@
 # -*- coding:utf-8 -*-
 # @time :2019.10.10
 # @IDE : pycharm
-# @autor :lxztju
+# @author :lxztju
 # @github : https://github.com/lxztju
 
 # 实现 int sqrt(int x) 函数。

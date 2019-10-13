@@ -1,7 +1,7 @@
 # -*- coding:utf-8 -*-
 # @time :2019.09.12
 # @IDE : pycharm
-# @autor :lxztju
+# @author :lxztju
 # @github : https://github.com/lxztju
 
 #Return the lexicographically smallest subsequence of text that contains all the distinct characters of text exactly once.
