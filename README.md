@@ -41,7 +41,7 @@ add 345_reverseVowels.py 2019.10.13
 
 add 1081_smallestSubsequence.py 2019.09.12
 
-add 3_lengthOfLongestSubstring.py  2019.09.24
+add 3_lengthOfLongestSubstring.py  2019.10.14
 
 add 80_removeDuplicates.py 2019.10.12
 
@@ -51,9 +51,14 @@ add 215_findKthLargest.py 2019.10.12
 
 add 11_maxArea.py 2019.10.13
 
+add 209_minSubArrayLen.py 2019.10.14
+
+add 438_findAnagrams.py 2019.10.14
+
+
 ## The directory of hard is  the solutions for hard problems
 
-
+add 76_minWindow.py 2019.10.14
 
 ## The directory of algorithm stored algorithm
 
