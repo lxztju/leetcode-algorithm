@@ -1,5 +1,5 @@
 # -*- coding:utf-8 -*-
-# @time :2019.09.08
+# @time :2019.11.20
 # @IDE : pycharm
 # @author :lxztju
 # @github : https://github.com/lxztju
@@ -14,31 +14,28 @@
 # Because nums[0] + nums[1] = 2 + 7 = 9,
 # return [0, 1].
 
-#1、利用暴力法，直接两遍循环进行处理，时间复杂度为n2
-#2、利用哈希表，在python中可以使用字典
 
-##方法一（暴力法）：
+###利用查找表
+#循环搜索元素v，在v之前的元素放入查找表中，然后在查找表中进行查找，找到即可返回
+# 没找到将现有的元素放入查找表，继续搜索
 class Solution:
     def twoSum(self, nums, target):
-        for i in range(len(nums)):
-            second_num = target - nums[i]
-            for j in range(i+1,len(nums)):
-                if nums[j] ==second_num:
-                    return [i,j]
 
+        record = {}
+        for i,v in enumerate(nums):
 
+            diff_v = target - v
 
-
-
-
-
-
-####方法二（利用字典）：
-class Solution:
-    def twoSum(self, nums, target):
-        hash_dict = {}
-        for i in range(len(nums)):
-            if nums[i] in hash_dict:
-                return [hash_dict[nums[i]], i]
+            if diff_v in record.keys():
+                return [record[diff_v], i]
             else:
-                hash_dict[target - nums[i]] = i
+                record[v] = i
+
+        raise Exception("there is no number for this target.")
+
+
+s = Solution()
+
+nums = [2,7,11,15]
+target = 18
+print(s.twoSum(nums,target))

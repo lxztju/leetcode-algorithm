@@ -1,5 +1,7 @@
 # The python implement of leetcode
 
+Every problem's description is cited from https://leetcode-cn.com/problems
+
 In .py file will give the ideas about how to solving the problems. 
 Also the description of the problems will be given in English or Chinese
 
@@ -37,6 +39,26 @@ add 344_reverseString.py 2019.10.13
 
 add 345_reverseVowels.py 2019.10.13
 
+add 349_intersection.py 2019.10.16
+
+add 350_intersect.py 2019.10.16
+
+add 242_isAnagram.py 2019.10.20
+
+add 202_isHappy.py 2019.10.20
+
+add 290_wordPatten.py 2019.10.20
+
+add 205_isIsomorphic.py 2019.10.20
+
+add 1_twoSum.py 2019.11.20
+
+add 447_numberOfBoomerangs.py 1019.11.23
+
+add 219_containsNearbyDuplicate.py 2019.11.24
+
+
+
 ## The directory of medium is  the solutions for medium problems
 
 add 1081_smallestSubsequence.py 2019.09.12
@@ -55,10 +77,27 @@ add 209_minSubArrayLen.py 2019.10.14
 
 add 438_findAnagrams.py 2019.10.14
 
+add 451_frequencySort.py 2019.10.20
+
+add 15_thereSum.py 2019.11.20
+
+add 18_fourSum.py 2019.11.20
+
+add 16_threeSumClosest.py 2019.11.21
+
+add 454_fourSumCount.py 2019.11.23
+
+add 49_groupAnagrams.py 2019.11.23
+
+
+
 
 ## The directory of hard is  the solutions for hard problems
 
 add 76_minWindow.py 2019.10.14
+
+add 149_maxPoints.py 2019.11.23
+
 
 ## The directory of algorithm stored algorithm
 
