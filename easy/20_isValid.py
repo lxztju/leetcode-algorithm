@@ -35,6 +35,7 @@ class Solution:
                         return False
                 except:
                     return False
+
         if len(stack_l) == 0:
 
             return True

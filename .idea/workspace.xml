@@ -2,28 +2,32 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0ce8e4f0-56a3-4c9e-a747-53fcd4e6dfbf" name="Default Changelist" comment="add isValid.py 2019.09.26">
-      <change afterPath="$PROJECT_DIR$/easy/202_isHappy.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/easy/205_isIsomorphic.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/easy/217_containsDuplicate.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/easy/219_containsNearbyDuplicate.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/easy/242_isAnagram.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/easy/290_wordPartten.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/easy/349_intersection.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/easy/350_intersect.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/easy/447_numberOfBoomerangs.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hard/149_maxPoints.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/medium/15_thereSum.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/medium/16_threeSumClosest.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/medium/18_fourSum.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/medium/220_containsNearbyAlmostDuplicate.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/medium/451_freqencySort.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/medium/454_fourSumCount.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/medium/49_groupAnagrams.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/leetcode-pyhton.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/leetcode-pyhton.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/easy/203_removeElements.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/easy/206_reverseList.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/easy/21_mergeTwoLists.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/easy/234_isPlindrome.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/easy/247_deleteNode.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/easy/83_deleteDuplicates.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hard/25_reverseKGroup.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/medium/144_preorderTraversal.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/medium/145_postorderTraversal.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/medium/147_InsertionSortList.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/medium/148_sortList.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/medium/150_evalRPN.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/medium/19_removeNthFromEnd.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/medium/24_swapPairs.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/medium/2_addTwoNumbers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/medium/328_oddEvenList.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/medium/445_addTwoNumbers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/medium/61_rotateRight.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/medium/71_simplifyPath.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/medium/82_deleteDuplicates.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/medium/86_partition.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/medium/92_reverseBetween.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/medium/94_inorderTraversal.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/easy/1_twoSum.py" beforeDir="false" afterPath="$PROJECT_DIR$/easy/1_twoSum.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/easy/20_isValid.py" beforeDir="false" afterPath="$PROJECT_DIR$/easy/20_isValid.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -31,14 +35,28 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+    <leaf>
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="264">
-                <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+              <first_editor relative-caret-position="220">
+                <caret line="124" lean-forward="true" selection-start-line="124" selection-end-line="124" />
               </first_editor>
               <second_editor />
             </state>
@@ -68,33 +86,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/algorithm/bucket_sort.py" />
-        <option value="$PROJECT_DIR$/algorithm/count_sort.py" />
-        <option value="$PROJECT_DIR$/algorithm/heap_sort.py" />
-        <option value="$PROJECT_DIR$/algorithm/insert_sort.py" />
-        <option value="$PROJECT_DIR$/algorithm/merge_sort.py" />
-        <option value="$PROJECT_DIR$/algorithm/radix_sort.py" />
-        <option value="$PROJECT_DIR$/algorithm/select_sort.py" />
-        <option value="$PROJECT_DIR$/algorithm/test_sort_algorithm.py" />
-        <option value="$PROJECT_DIR$/easy/13_romanToInt.py" />
-        <option value="$PROJECT_DIR$/easy/20_isValid.py" />
-        <option value="$PROJECT_DIR$/easy/26_removeDuplicates.py" />
-        <option value="$PROJECT_DIR$/easy/69_mySqrt.py" />
-        <option value="$PROJECT_DIR$/easy/88_merge.py" />
-        <option value="$PROJECT_DIR$/easy/125_isPalindrome.py" />
-        <option value="$PROJECT_DIR$/easy/167_twoSum.py" />
-        <option value="$PROJECT_DIR$/easy/238_moveZeroes.py" />
-        <option value="$PROJECT_DIR$/easy/344_reverseString.py" />
-        <option value="$PROJECT_DIR$/easy/345_reverseVowels.py" />
-        <option value="$PROJECT_DIR$/easy/687_longestUnivaluePath.py" />
-        <option value="$PROJECT_DIR$/easy/821_shortestToChar.py" />
-        <option value="$PROJECT_DIR$/easy/824_toGoatLatin.py" />
-        <option value="$PROJECT_DIR$/easy/1022_sumRootToLeaf.py" />
-        <option value="$PROJECT_DIR$/medium/75_sortColors.py" />
-        <option value="$PROJECT_DIR$/medium/80_removeDuplicates.py" />
-        <option value="$PROJECT_DIR$/medium/1081_smallestSubsequence.py" />
-        <option value="$PROJECT_DIR$/medium/11_maxArea.py" />
-        <option value="$PROJECT_DIR$/algorithm/quick_sort.py" />
         <option value="$PROJECT_DIR$/medium/215_findKthLargest.py" />
         <option value="$PROJECT_DIR$/medium/209_minSubArrayLen.py" />
         <option value="$PROJECT_DIR$/medium/438_findAnagrams.py" />
@@ -118,15 +109,42 @@
         <option value="$PROJECT_DIR$/easy/219_containsNearbyDuplicate.py" />
         <option value="$PROJECT_DIR$/easy/217_containsDuplicate.py" />
         <option value="$PROJECT_DIR$/medium/220_containsNearbyAlmostDuplicate.py" />
+        <option value="/tmp/leetcode/editor/cn/[206]反转链表.py" />
+        <option value="$PROJECT_DIR$/easy/206_reverseList.py" />
+        <option value="$PROJECT_DIR$/medium/92_reverseBetween.py" />
+        <option value="$PROJECT_DIR$/easy/83_deleteDuplicates.py" />
+        <option value="$PROJECT_DIR$/medium/86_partition.py" />
+        <option value="$PROJECT_DIR$/medium/328_oddEvenList.py" />
+        <option value="$PROJECT_DIR$/medium/2_addTwoNumbers.py" />
+        <option value="$PROJECT_DIR$/medium/445_addTwoNumbers.py" />
+        <option value="$PROJECT_DIR$/easy/203_removeElements.py" />
+        <option value="$PROJECT_DIR$/medium/82_deleteDuplicates.py" />
+        <option value="$PROJECT_DIR$/easy/21_mergeTwoLists.py" />
+        <option value="$PROJECT_DIR$/medium/24_swapPairs.py" />
+        <option value="$PROJECT_DIR$/hard/25_reverseKGroup.py" />
+        <option value="$PROJECT_DIR$/medium/home/luxiangzhe/git/leetcode-pyhton/medium.py" />
+        <option value="$PROJECT_DIR$/medium/147_INSERTIONsORTlIST.PY.py" />
+        <option value="$PROJECT_DIR$/medium/147_InsertionSortList.py" />
+        <option value="$PROJECT_DIR$/medium/148_sortList.py" />
+        <option value="$PROJECT_DIR$/easy/247_deleteNode.py" />
+        <option value="$PROJECT_DIR$/easy/234_isPlindrome.py" />
+        <option value="$PROJECT_DIR$/medium/19_removeNthFromEnd.py" />
+        <option value="$PROJECT_DIR$/medium/61_rotateRight.py" />
+        <option value="$PROJECT_DIR$/easy/20_isValid.py" />
+        <option value="$PROJECT_DIR$/medium/150_evalRPN.py" />
+        <option value="$PROJECT_DIR$/medium/71_simplifyPath.py" />
+        <option value="$PROJECT_DIR$/medium/144_preorderTraversal.py" />
+        <option value="$PROJECT_DIR$/medium/94_inorderTraversal.py" />
         <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/medium/145_postorderTraversal.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="440" />
-    <option name="y" value="-4" />
-    <option name="width" value="1073" />
-    <option name="height" value="997" />
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="428" />
+    <option name="y" value="65" />
+    <option name="width" value="1069" />
+    <option name="height" value="939" />
   </component>
   <component name="ProjectLevelVcsManager">
     <OptionsSetting value="false" id="Update" />
@@ -148,7 +166,7 @@
             <path>
               <item name="leetcode-pyhton" type="b2602c69:ProjectViewProjectNode" />
               <item name="leetcode-pyhton" type="462c0819:PsiDirectoryNode" />
-              <item name="easy" type="462c0819:PsiDirectoryNode" />
+              <item name="hard" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="leetcode-pyhton" type="b2602c69:ProjectViewProjectNode" />
@@ -167,7 +185,7 @@
     <property name="last_opened_file_path" value="$USER_HOME$/anaconda3/envs/tf/bin" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -187,7 +205,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.220_containsNearbyAlmostDuplicate">
+  <component name="RunManager" selected="Python.[206]反转链表">
     <configuration name="149_maxPoints" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="leetcode-pyhton" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -276,7 +294,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="49_groupAnagrams" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="[206]反转链表" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="leetcode-pyhton" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -284,12 +302,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/medium" />
-      <option name="IS_MODULE_SDK" value="true" />
+      <option name="WORKING_DIRECTORY" value="/tmp/leetcode/editor/cn" />
+      <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/medium/49_groupAnagrams.py" />
+      <option name="SCRIPT_NAME" value="/tmp/leetcode/editor/cn/[206]反转链表.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -300,11 +318,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.[206]反转链表" />
         <item itemvalue="Python.220_containsNearbyAlmostDuplicate" />
         <item itemvalue="Python.219_containsNearbyDuplicate" />
         <item itemvalue="Python.149_maxPoints" />
         <item itemvalue="Python.447_numberOfBoomerangs" />
-        <item itemvalue="Python.49_groupAnagrams" />
       </list>
     </recent_temporary>
   </component>
@@ -339,7 +357,21 @@
       <workItem from="1574476473850" duration="62000" />
       <workItem from="1574476545903" duration="7000" />
       <workItem from="1574491265216" duration="17842000" />
-      <workItem from="1574574207066" duration="5910000" />
+      <workItem from="1574574207066" duration="5973000" />
+      <workItem from="1574843552599" duration="95000" />
+      <workItem from="1574843655266" duration="500000" />
+      <workItem from="1574904085418" duration="3296000" />
+      <workItem from="1575011373128" duration="72000" />
+      <workItem from="1575011453394" duration="1551000" />
+      <workItem from="1575020322419" duration="1429000" />
+      <workItem from="1575082725042" duration="9945000" />
+      <workItem from="1575169730981" duration="1501000" />
+      <workItem from="1575271712968" duration="4548000" />
+      <workItem from="1575336224951" duration="2772000" />
+      <workItem from="1575358844656" duration="241000" />
+      <workItem from="1575379893461" duration="952000" />
+      <workItem from="1575438716855" duration="1450000" />
+      <workItem from="1575519365655" duration="1453000" />
     </task>
     <task id="LOCAL-00001" summary="updata a new .py">
       <created>1568444942982</created>
@@ -429,18 +461,18 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="159707000" />
+    <option name="totallyTimeSpent" value="189575000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="64" y="-4" width="1857" height="1085" extended-state="6" />
+    <frame x="64" y="-4" width="1857" height="1085" extended-state="7" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16491422" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19867183" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.4234694" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4997233" weight="0.4234694" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3989796" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -448,22 +480,23 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5002767" side_tool="true" weight="0.3132653" />
       <window_info anchor="bottom" id="Terminal" order="11" />
       <window_info anchor="bottom" id="Python Console" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.24958494" />
-      <window_info anchor="right" id="SciView" order="3" />
-      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="SciView" order="3" weight="0.32982844" />
+      <window_info anchor="right" id="Database" order="4" weight="0.32982844" />
+      <window_info anchor="right" id="leetcode" order="5" show_stripe_button="false" side_tool="true" weight="0.17487548" />
     </layout>
     <layout-to-restore>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16325401" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17487548" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32857144" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4997233" weight="0.4234694" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3989796" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -471,14 +504,15 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5002767" side_tool="true" visible="true" weight="0.3132653" />
       <window_info anchor="bottom" id="Terminal" order="11" />
       <window_info anchor="bottom" id="Python Console" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="SciView" order="3" />
-      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.24958494" />
+      <window_info anchor="right" id="SciView" order="3" weight="0.32982844" />
+      <window_info anchor="right" id="Database" order="4" weight="0.32982844" />
+      <window_info anchor="right" id="leetcode" order="5" show_stripe_button="false" side_tool="true" weight="0.17487548" />
     </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -514,7 +548,7 @@
     <SUITE FILE_PATH="coverage/leetcode_pyhton$bucket_sort.coverage" NAME="bucket_sort Coverage Results" MODIFIED="1570963218303" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/algorithm" />
     <SUITE FILE_PATH="coverage/leetcode_pyhton$radix_sort.coverage" NAME="radix_sort Coverage Results" MODIFIED="1570963185591" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/algorithm" />
     <SUITE FILE_PATH="coverage/leetcode_pyhton$209_minSubArrayLen.coverage" NAME="209_minSubArrayLen Coverage Results" MODIFIED="1571050930114" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/medium" />
-    <SUITE FILE_PATH="coverage/leetcode_pyhton$220_containsNearbyAlmostDuplicate.coverage" NAME="220_containsNearbyAlmostDuplicate Coverage Results" MODIFIED="1574579370900" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/medium" />
+    <SUITE FILE_PATH="coverage/leetcode_pyhton$220_containsNearbyAlmostDuplicate.coverage" NAME="220_containsNearbyAlmostDuplicate Coverage Results" MODIFIED="1574939517245" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/medium" />
     <SUITE FILE_PATH="coverage/leetcode_pyhton$Shortest_Distance_to_a_Character.coverage" NAME="Shortest_Distance_to_a_Character Coverage Results" MODIFIED="1568175042341" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/easy" />
     <SUITE FILE_PATH="coverage/leetcode_pyhton$27_removeElement.coverage" NAME="27_removeElement Coverage Results" MODIFIED="1570798203910" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/easy" />
     <SUITE FILE_PATH="coverage/leetcode_pyhton$1_two_sum.coverage" NAME="1_two_sum Coverage Results" MODIFIED="1570884643504" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/easy" />
@@ -531,6 +565,7 @@
     <SUITE FILE_PATH="coverage/leetcode_pyhton$447_numberOfBoomerangs.coverage" NAME="447_numberOfBoomerangs Coverage Results" MODIFIED="1574503445164" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/easy" />
     <SUITE FILE_PATH="coverage/leetcode_pyhton$290_wordPartten.coverage" NAME="290_wordPartten Coverage Results" MODIFIED="1571551322976" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/easy" />
     <SUITE FILE_PATH="coverage/leetcode_pyhton$88_merge.coverage" NAME="88_merge Coverage Results" MODIFIED="1570878456218" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/easy" />
+    <SUITE FILE_PATH="coverage/leetcode_pyhton$_206_.coverage" NAME="[206]反转链表 Coverage Results" MODIFIED="1574939541931" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="/tmp/leetcode/editor/cn" />
     <SUITE FILE_PATH="coverage/leetcode_pyhton$215_findKthLargest.coverage" NAME="215_findKthLargest Coverage Results" MODIFIED="1570977888908" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/medium" />
     <SUITE FILE_PATH="coverage/leetcode_pyhton$18_fourSum.coverage" NAME="18_fourSum Coverage Results" MODIFIED="1574308149423" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/medium" />
     <SUITE FILE_PATH="coverage/leetcode_pyhton$merge_sort.coverage" NAME="merge_sort Coverage Results" MODIFIED="1570963199632" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/algorithm" />
@@ -550,198 +585,6 @@
     <SUITE FILE_PATH="coverage/leetcode_pyhton$202_isHappy.coverage" NAME="202_isHappy Coverage Results" MODIFIED="1571549403398" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/easy" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/algorithm/insert_sort.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="66">
-          <caret line="3" column="8" selection-start-line="3" selection-start-column="8" selection-end-line="3" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/algorithm/merge_sort.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="66">
-          <caret line="3" column="7" selection-start-line="3" selection-start-column="7" selection-end-line="3" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/algorithm/radix_sort.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="66">
-          <caret line="3" column="7" selection-start-line="3" selection-start-column="7" selection-end-line="3" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/algorithm/select_sort.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="66">
-          <caret line="3" column="7" selection-start-line="3" selection-start-column="7" selection-end-line="3" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/algorithm/test_sort_algorithm.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="66">
-          <caret line="3" column="7" selection-start-line="3" selection-start-column="7" selection-end-line="3" selection-end-column="7" />
-          <folding>
-            <element signature="e#116#129#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/easy/13_romanToInt.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="66">
-          <caret line="3" column="7" selection-start-line="3" selection-start-column="7" selection-end-line="3" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/easy/14_longestCommonPrefix.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="66">
-          <caret line="3" column="7" selection-start-line="3" selection-start-column="7" selection-end-line="3" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/easy/20_isValid.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="66">
-          <caret line="3" column="7" selection-start-line="3" selection-start-column="7" selection-end-line="3" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/easy/26_removeDuplicates.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="66">
-          <caret line="3" column="7" selection-start-line="3" selection-start-column="7" selection-end-line="3" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/easy/27_removeElement.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="59">
-          <caret line="3" column="7" selection-start-line="3" selection-start-column="7" selection-end-line="3" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/easy/69_mySqrt.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="66">
-          <caret line="3" column="7" selection-start-line="3" selection-start-column="7" selection-end-line="3" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/easy/238_moveZeroes.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="66">
-          <caret line="3" column="7" selection-start-line="3" selection-start-column="7" selection-end-line="3" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/easy/167_twoSum.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="66">
-          <caret line="3" column="7" selection-start-line="3" selection-start-column="7" selection-end-line="3" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/easy/125_isPalindrome.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="66">
-          <caret line="3" column="7" selection-start-line="3" selection-start-column="7" selection-end-line="3" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/easy/88_merge.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="66">
-          <caret line="3" column="7" selection-start-line="3" selection-start-column="7" selection-end-line="3" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/easy/344_reverseString.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="66">
-          <caret line="3" column="7" selection-start-line="3" selection-start-column="7" selection-end-line="3" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/easy/345_reverseVowels.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="66">
-          <caret line="3" column="7" selection-start-line="3" selection-start-column="7" selection-end-line="3" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/easy/687_longestUnivaluePath.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="66">
-          <caret line="3" column="7" selection-start-line="3" selection-start-column="7" selection-end-line="3" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/easy/821_shortestToChar.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="66">
-          <caret line="3" column="7" selection-start-line="3" selection-start-column="7" selection-end-line="3" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/easy/824_toGoatLatin.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="66">
-          <caret line="3" column="7" selection-start-line="3" selection-start-column="7" selection-end-line="3" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/easy/1022_sumRootToLeaf.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="66">
-          <caret line="3" column="7" selection-start-line="3" selection-start-column="7" selection-end-line="3" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/medium/1081_smallestSubsequence.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="66">
-          <caret line="3" column="7" selection-start-line="3" selection-start-column="7" selection-end-line="3" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/medium/80_removeDuplicates.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="66">
-          <caret line="3" column="7" selection-start-line="3" selection-start-column="7" selection-end-line="3" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/medium/75_sortColors.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="66">
-          <caret line="3" column="7" selection-start-line="3" selection-start-column="7" selection-end-line="3" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/medium/11_maxArea.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="440">
-          <caret line="20" column="31" lean-forward="true" selection-start-line="20" selection-start-column="31" selection-end-line="20" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/algorithm/heap_sort.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="45" column="22" lean-forward="true" selection-start-line="45" selection-start-column="22" selection-end-line="45" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/algorithm/quick_sort.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="584">
-          <caret line="49" column="7" lean-forward="true" selection-start-line="49" selection-start-column="7" selection-end-line="49" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/medium/215_findKthLargest.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="56">
@@ -840,13 +683,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/easy/350_intersect.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="550">
-          <caret line="25" column="57" selection-start-line="25" selection-start-column="57" selection-end-line="25" selection-end-column="57" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/medium/49_groupAnagrams.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="66">
@@ -889,25 +725,209 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/easy/349_intersection.py">
+    <entry file="file://$PROJECT_DIR$/easy/219_containsNearbyDuplicate.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="34" column="1" lean-forward="true" selection-start-line="34" selection-start-column="1" selection-end-line="34" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///tmp/leetcode/editor/cn/[206]反转链表.py" />
+    <entry file="file://$PROJECT_DIR$/medium/92_reverseBetween.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" column="17" lean-forward="true" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/easy/206_reverseList.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="528">
+          <caret line="24" column="23" selection-start-line="24" selection-start-column="23" selection-end-line="24" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/easy/83_deleteDuplicates.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="12" column="26" lean-forward="true" selection-start-line="12" selection-start-column="26" selection-end-line="12" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/medium/86_partition.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="821">
+          <caret line="50" lean-forward="true" selection-start-line="50" selection-end-line="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/medium/328_oddEvenList.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="884">
+          <caret line="51" selection-start-line="51" selection-end-line="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/medium/2_addTwoNumbers.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/medium/445_addTwoNumbers.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="704">
+          <caret line="32" column="24" lean-forward="true" selection-start-line="32" selection-start-column="24" selection-end-line="32" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/easy/203_removeElements.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="21" column="19" lean-forward="true" selection-start-line="21" selection-start-column="19" selection-end-line="21" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/medium/82_deleteDuplicates.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="528">
+          <caret line="24" column="26" selection-start-line="24" selection-start-column="26" selection-end-line="24" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/easy/21_mergeTwoLists.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="550">
+          <caret line="25" column="28" lean-forward="true" selection-start-line="25" selection-start-column="28" selection-end-line="25" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/medium/24_swapPairs.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="444">
+          <caret line="24" column="17" selection-start-line="24" selection-start-column="17" selection-end-line="24" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hard/25_reverseKGroup.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/medium/home/luxiangzhe/git/leetcode-pyhton/medium.py" />
+    <entry file="file://$PROJECT_DIR$/medium/147_InsertionSortList.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" column="9" selection-start-line="7" selection-start-column="9" selection-end-line="7" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algorithm/merge_sort.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="60" lean-forward="true" selection-start-line="60" selection-end-line="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/medium/148_sortList.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="814">
+          <caret line="37" column="6" selection-start-line="37" selection-start-column="6" selection-end-line="37" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/easy/247_deleteNode.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="176">
+          <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/easy/234_isPlindrome.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="12" column="17" lean-forward="true" selection-start-line="11" selection-start-column="36" selection-end-line="12" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/medium/19_removeNthFromEnd.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="488">
+          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/medium/61_rotateRight.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="466">
+          <caret line="37" column="19" lean-forward="true" selection-start-line="37" selection-start-column="19" selection-end-line="37" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/easy/349_intersection.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="249">
           <caret line="14" column="4" selection-start-line="14" selection-start-column="4" selection-end-line="14" selection-end-column="4" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/easy/219_containsNearbyDuplicate.py">
+    <entry file="file://$PROJECT_DIR$/easy/350_intersect.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="491">
-          <caret line="45" column="29" selection-start-line="45" selection-start-column="29" selection-end-line="45" selection-end-column="29" />
+        <state relative-caret-position="286">
+          <caret line="13" column="6" selection-start-line="13" selection-start-column="6" selection-end-line="13" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/medium/150_evalRPN.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/easy/20_isValid.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="21" column="11" selection-start-line="21" selection-start-column="11" selection-end-line="21" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/medium/71_simplifyPath.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/medium/94_inorderTraversal.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/medium/145_postorderTraversal.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="11" column="28" lean-forward="true" selection-start-line="11" selection-start-column="28" selection-end-line="11" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/medium/144_preorderTraversal.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" selection-start-line="7" selection-end-line="28" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="264">
-            <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+          <first_editor relative-caret-position="220">
+            <caret line="124" lean-forward="true" selection-start-line="124" selection-end-line="124" />
           </first_editor>
           <second_editor />
         </state>
