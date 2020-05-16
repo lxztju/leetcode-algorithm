@@ -2,37 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0ce8e4f0-56a3-4c9e-a747-53fcd4e6dfbf" name="Default Changelist" comment="add isValid.py 2019.09.26">
-      <change afterPath="$PROJECT_DIR$/easy/binary_tree_&#10;recursion/100_isSameTree.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/easy/binary_tree_&#10;recursion/101_isSymmetric.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/easy/binary_tree_&#10;recursion/104_maxDepth.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/easy/binary_tree_&#10;recursion/108_sortedArrayToBST.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/easy/binary_tree_&#10;recursion/110_isBalanced.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/easy/binary_tree_&#10;recursion/111_minDepth.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/easy/binary_tree_&#10;recursion/112_hasPathSum.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/easy/binary_tree_&#10;recursion/226_invertTree.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/easy/binary_tree_&#10;recursion/235_lowestCommonAncestor.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/easy/binary_tree_&#10;recursion/257_binaryTreePaths.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/easy/binary_tree_&#10;recursion/404_sumOfLeftLeaves.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/easy/binary_tree_&#10;recursion/437_pathSum.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/medium/Priority queue&#10;&#10;/347_topKFrequent.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/medium/binary_tree_&#10;recursion/113_pathSum.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/medium/binary_tree_&#10;recursion/129_sumNumbers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/medium/binary_tree_&#10;recursion/222_countNodes.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/medium/binary_tree_&#10;recursion/230_kthSmallest.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/medium/binary_tree_&#10;recursion/236_lowestCommonAncestor.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/medium/binary_tree_&#10;recursion/450_deleteNode.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/medium/binary_tree_&#10;recursion/98_isValidBST.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/medium/queue/127_ladderLength.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/medium/queue/279_numSquares.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/medium/recursion_backtracking/131_partition.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/medium/recursion_backtracking/17_letterCombination.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/medium/recursion_backtracking/39_combinationSum.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/medium/recursion_backtracking/46_permute.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/medium/recursion_backtracking/47_permuteUnique.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/medium/recursion_backtracking/77_combine.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/medium/recursion_backtracking/93_restoreIpAddresses.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/leetcode-pyhton.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/leetcode-pyhton.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/medium/recursion_backtracking/216_combinationSum3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/medium/recursion_backtracking/40_combinationSum2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/medium/recursion_backtracking/70_subsetsWithDup.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/medium/recursion_backtracking/78_subsets.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -56,7 +29,17 @@
     <select />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/medium/recursion_backtracking/70_subsetsWithDup.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="154">
+              <caret line="7" column="5" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -79,10 +62,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/medium/24_swapPairs.py" />
-        <option value="$PROJECT_DIR$/hard/25_reverseKGroup.py" />
-        <option value="$PROJECT_DIR$/medium/home/luxiangzhe/git/leetcode-pyhton/medium.py" />
-        <option value="$PROJECT_DIR$/medium/147_INSERTIONsORTlIST.PY.py" />
         <option value="$PROJECT_DIR$/medium/147_InsertionSortList.py" />
         <option value="$PROJECT_DIR$/medium/148_sortList.py" />
         <option value="$PROJECT_DIR$/easy/247_deleteNode.py" />
@@ -130,10 +109,14 @@
         <option value="$PROJECT_DIR$/medium/recursion_backtracking/47_permuteUnique.py" />
         <option value="$PROJECT_DIR$/medium/recursion_backtracking/77_combine.py" />
         <option value="$PROJECT_DIR$/medium/recursion_backtracking/39_combinationSum.py" />
+        <option value="$PROJECT_DIR$/medium/recursion_backtracking/40_combinationSum2.py" />
+        <option value="$PROJECT_DIR$/medium/recursion_backtracking/216_combinationSum3.py" />
+        <option value="$PROJECT_DIR$/medium/recursion_backtracking/78_subsets.py" />
+        <option value="$PROJECT_DIR$/medium/recursion_backtracking/70_subsetsWithDup.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="541" />
     <option name="y" value="234" />
     <option name="width" value="1067" />
@@ -384,6 +367,7 @@
       <workItem from="1576502854135" duration="2000" />
       <workItem from="1579008691463" duration="2755000" />
       <workItem from="1579056111783" duration="2726000" />
+      <workItem from="1579138048570" duration="3378000" />
     </task>
     <task id="LOCAL-00001" summary="updata a new .py">
       <created>1568444942982</created>
@@ -473,12 +457,13 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="229554000" />
+    <option name="totallyTimeSpent" value="232932000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="64" y="-4" width="1857" height="1085" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21029331" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21306032" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -580,10 +565,6 @@
     <SUITE FILE_PATH="coverage/leetcode_pyhton$202_isHappy.coverage" NAME="202_isHappy Coverage Results" MODIFIED="1571549403398" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/easy" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/medium/147_InsertionSortList.py" />
-    <entry file="file://$PROJECT_DIR$/algorithm/merge_sort.py" />
-    <entry file="file://$PROJECT_DIR$/medium/148_sortList.py" />
-    <entry file="file://$PROJECT_DIR$/easy/247_deleteNode.py" />
     <entry file="file://$PROJECT_DIR$/easy/234_isPlindrome.py" />
     <entry file="file://$PROJECT_DIR$/medium/19_removeNthFromEnd.py" />
     <entry file="file://$PROJECT_DIR$/medium/61_rotateRight.py" />
@@ -807,10 +788,38 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/medium/recursion_backtracking/40_combinationSum2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="11" column="21" lean-forward="true" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/medium/recursion_backtracking/39_combinationSum.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="884">
+        <state relative-caret-position="796">
           <caret line="54" selection-start-line="54" selection-end-line="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/medium/recursion_backtracking/216_combinationSum3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="18" column="22" lean-forward="true" selection-start-line="18" selection-start-column="22" selection-end-line="18" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/medium/recursion_backtracking/78_subsets.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="550">
+          <caret line="25" column="14" selection-start-line="25" selection-start-column="14" selection-end-line="25" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/medium/recursion_backtracking/70_subsetsWithDup.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" column="5" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
         </state>
       </provider>
     </entry>
