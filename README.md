@@ -12,7 +12,7 @@ leetcode刷题一方面为后期的面试做准备，同时也用于学习一定
 
 分类别进行leetcode算法题目的学习：
 
-* 双指针
+##  双指针
 
 github跳转地址
 
@@ -26,7 +26,7 @@ github跳转地址
 [双指针(快慢指针)](https://lxztju.github.io/2020/03/%E5%8F%8C%E6%8C%87%E9%92%88(%E5%BF%AB%E6%85%A2%E6%8C%87%E9%92%88)/)   
 [其他双指针](https://lxztju.github.io/2020/03/%E5%85%B6%E4%BB%96%E5%8F%8C%E6%8C%87%E9%92%88/)   
 
-* 哈希表
+##  哈希表
 
 github跳转地址
 
@@ -36,7 +36,7 @@ github跳转地址
 
 [哈希表](https://lxztju.github.io/2020/05/%E5%93%88%E5%B8%8C%E8%A1%A8/) 
 
-* 排序
+##  排序
 
 
 github跳转地址
@@ -47,7 +47,7 @@ github跳转地址
 
 [排序算法](https://lxztju.github.io/2020/05/%E6%8E%92%E5%BA%8F%E7%AE%97%E6%B3%95/)
 
-* 二分查找
+##  二分查找
 
 
 github跳转地址
@@ -58,7 +58,7 @@ github跳转地址
 
 [二分查找](https://lxztju.github.io/2020/05/%E4%BA%8C%E5%88%86%E6%9F%A5%E6%89%BE/)
 
-* 数组与矩阵
+##  数组与矩阵
 
 
 github跳转地址
@@ -69,7 +69,7 @@ github跳转地址
 
 []()
 
-* 字符串
+##  字符串
 
 
 github跳转地址
@@ -80,7 +80,7 @@ github跳转地址
 
 []()
 
-* 链表
+##  链表
 
 
 github跳转地址
@@ -91,7 +91,7 @@ github跳转地址
 
 [链表](https://lxztju.github.io/2020/05/%E9%93%BE%E8%A1%A8/)
 
-* 栈与队列
+##  栈与队列
 
 github跳转地址
 
@@ -101,7 +101,7 @@ github跳转地址
 
 [栈和队列](https://lxztju.github.io/2020/05/%E6%A0%88%E5%92%8C%E9%98%9F%E5%88%97/)
 
-* 树与递归
+##  树与递归
 
 
 github跳转地址
@@ -119,7 +119,7 @@ github跳转地址
 [回溯](https://lxztju.github.io/2020/04/%E5%9B%9E%E6%BA%AF/)  
 
 
-* 贪心算法
+##  贪心算法
 
 
 github跳转地址
@@ -130,7 +130,7 @@ github跳转地址
 
 []()
 
-* 分治法
+##  分治法
 
 
 github跳转地址
@@ -141,7 +141,7 @@ github跳转地址
 
 []()
 
-* 动态规划
+##  动态规划
 
 
 github跳转地址
@@ -154,7 +154,7 @@ github跳转地址
 [动态规划](https://lxztju.github.io/2020/04/%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92/)
 [背包问题](https://lxztju.github.io/2020/05/%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92-%E8%83%8C%E5%8C%85%E9%97%AE%E9%A2%98/)
 
-* 搜索
+##  搜索
 
 
 github跳转地址
@@ -165,7 +165,7 @@ github跳转地址
 
 []()
 
-* 图
+##  图
 
 
 github跳转地址
@@ -176,7 +176,7 @@ github跳转地址
 
 []()
 
-* 位运算
+##  位运算
 
 
 github跳转地址
@@ -187,6 +187,6 @@ github跳转地址
 
 [位运算](https://lxztju.github.io/2020/06/%E4%BD%8D%E8%BF%90%E7%AE%97/)
 
-* 每日一题
+##  每日一题
 
 leetcode刷题需要长期坚持，当按类别算法知识基本学习之后，就每天刷一道题，持续更新
