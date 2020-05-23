@@ -1,55 +1,32 @@
-# The python implement of leetcode
+# leetcode分类刷题
 
-Every problem's description is cited from https://leetcode-cn.com/problems
+目前我也正在学习中，分类整理大概各种leetcode算法题目前大概整理150道左右，在刷题过程中持续更新。
 
-In .py file will give the ideas about how to solving the problems. 
-Also the description of the problems will be given in English or Chinese
+小伙伴们加油一起熬过这段苦逼的时光，坚持下来，一段时间之后会发现自己已经有了很大长进了。
 
-## The directory of easy is  the solutions for easy problems
+将算法题目分门别类的进行整理，将一个题目相关的类型多做几道，熟练算法思想
 
-array
+leetcode刷题一方面为后期的面试做准备，同时也用于学习一定的算法基础，通过刷题实训来提高自己的工程能力，
+本项目的代码实现均采用python实现，但是不采用python库中的函数，基本上采用算法思想实现，所以具体的语言
+并不重要，但是对于其他的语言可能要考虑越界与数据类型转换的问题
 
-hashmap
+分类别进行leetcode算法题目的学习：
 
-linked list
+* 双指针
+* 哈希表
+* 排序
+* 二分查找
+* 数组与矩阵
+* 字符串
+* 链表
+* 栈与队列
+* 树与递归
+* 贪心算法
+* 分治法
+* 动态规划
+* 搜索
+* 图
+* 位运算
+* 每日一题
 
-stack
-
-queue
-
-priority queue
-
-
-## The directory of medium is  the solutions for medium problems
-
-array
-
-hashmap
-
-linked list
-
-stack
-
-queue
-
-priority queue
-
-## The directory of hard is  the solutions for hard problems
-
-array
-
-hashmap
-
-linked list
-
-stack
-
-queue
-
-priority queue
-
-
-## The directory of algorithm stored algorithm
-
-sort
-
+leetcode刷题需要长期坚持，当按类别算法知识基本学习之后，就每天刷一道题，持续更新
