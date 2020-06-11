@@ -61,6 +61,7 @@ def KeepHeap(nums, i):
 
 
 if __name__ == "__main__":
-    numbers = [12, 321, 432, 5, 43, 6, 45, 765, 7, 65, 876, 8, 67, 98, 679, 87, 987, 9, 4345325]
+    numbers = [1, 5, 9, 10, 11, 13, 12, 13, 15]
     HeapSort(numbers)
+    # BuildMaxHeap(numbers)
     print(numbers)
