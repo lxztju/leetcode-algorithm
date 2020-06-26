@@ -87,4 +87,4 @@ leetcode刷题一方面为后期的面试做准备，同时也用于学习一定
 leetcode刷题需要长期坚持，当按类别算法知识基本学习之后，就每天刷一道题，持续更新，部分内容参考：[Leetcode 题解](CyC2018/CS-Notes)
 
 放上github地址，整理不易，欢迎star。
-github地址：[lxztju/leetcode-python](lxztju/leetcode-python)lxztju/leetcode-python)
+github地址：[https://github.com/lxztju/leetcode-python](https://github.com/lxztju/leetcode-python)
