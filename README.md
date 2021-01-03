@@ -24,10 +24,13 @@
 
 ## 更多笔记资料
 
+* 微信公众号： 小哲AI
+
+  ![wechat_QRcode](https://github.com/lxztju/leetcode-algorithm/blob/master/images/wechat_QRcode.jpg)
+
 * GitHub地址： [https://github.com/lxztju/leetcode-algorithm](https://github.com/lxztju/leetcode-algorithm)
 
 * csdn博客： [https://blog.csdn.net/lxztju](https://blog.csdn.net/lxztju)
 * 知乎专栏： [小哲AI](https://www.zhihu.com/column/c_1101089619118026752)
-* 微信公众号： 小哲AI
 * AI研习社专栏：[小哲AI](https://www.yanxishe.com/column/109)
 
