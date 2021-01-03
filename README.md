@@ -26,7 +26,7 @@
 
 * 微信公众号： 小哲AI
 
-  ![wechat_QRcode](https://img-blog.csdnimg.cn/20210103143924819.jpg)
+  ![wechat_QRcode](images/wechat_QRcode.jpg)
 
 * GitHub地址： [https://github.com/lxztju/leetcode-algorithm](https://github.com/lxztju/leetcode-algorithm)
 
