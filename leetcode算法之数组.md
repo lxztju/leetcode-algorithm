@@ -439,11 +439,12 @@ public:
 
 ## 更多笔记资料
 
-* GitHub地址： [https://github.com/lxztju/leetcode-algorithm](https://github.com/lxztju/leetcode-algorithm)
+* 微信公众号: 小哲AI
 
+![https://img-blog.csdnimg.cn/20210103143924819.jpg](https://img-blog.csdnimg.cn/20210103143924819.jpg)
+* GitHub地址： [https://github.com/lxztju/leetcode-algorithm](https://github.com/lxztju/leetcode-algorithm)
 * csdn博客： [小哲AI](https://blog.csdn.net/lxztju)
 * 知乎专栏： [小哲AI](https://www.zhihu.com/column/c_1101089619118026752)
-* 微信公众号： 小哲AI
 * AI研习社专栏：[小哲AI](https://www.yanxishe.com/column/109)
 
 
